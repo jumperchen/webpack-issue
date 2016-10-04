@@ -1,0 +1,21 @@
+{
+  "name": "webpack-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp compile && gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0.0",
+    "webpack": "^2.1.0-beta.25"
+  }
+}

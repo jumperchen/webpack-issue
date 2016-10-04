@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "es6",
+        "sourceMap": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "skipDefaultLibCheck": true,
+        "noFallthroughCasesInSwitch": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
